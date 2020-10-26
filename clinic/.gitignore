@@ -1,0 +1,27 @@
+### Project Files ###
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### Maven Wrapper ###
+!.mvn/wrapper/maven-wrapper.jar
+
+### IntelliJ IDEA ###
+/.idea
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+/.classpath
+/.project
+/.settings/
+
+### VS Code ###
+.vscode/
+
+### OS ###
+.DS_Store
+
+### DEV ###
+/src/main/resources/application-dev.properties

@@ -35,7 +35,7 @@ public class StringUtility {
 				rtnYear = "*";
 			}
 			else if ( rtnYear.equals( "1097" ) == true ){
-				rtnYear = "∞";
+				rtnYear = "*";
 			}
 			else if ( rtnYear.equals( "1096" ) == true ){
 				rtnYear = " ";

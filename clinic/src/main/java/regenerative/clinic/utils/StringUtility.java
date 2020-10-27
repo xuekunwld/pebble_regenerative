@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 public class StringUtility {
 
 	/**
-	 * 日付変換するメソッド
+	 * 日付変換するメソッドテスト
 	 * (例：YYYYMMDD → YYYY年)
 	 *
 	 * @param  strYear  変換前日付 YYYY-MM-DD	(例：2008-01-01)
